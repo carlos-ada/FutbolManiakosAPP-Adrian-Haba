@@ -1,5 +1,5 @@
 
-Nombre de la aplicación: FutbolManiakos	
+Nombre de la aplicación: FutbolManiakos
 
 Nombre del alumno: Adrián Haba Gómez	
 
